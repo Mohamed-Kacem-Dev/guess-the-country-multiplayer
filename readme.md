@@ -6,6 +6,10 @@ Guess The Country is a web-based game where players try to guess the names of co
 
 The project is hosted on Vercel at https://guessthecountry.vercel.app/.
 
+## DATA
+
+Data from https://restcountries.com/
+
 ## Features
 
 - Multiplayer gameplay using socket.io
