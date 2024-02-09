@@ -58,7 +58,7 @@ Data from https://restcountries.com/
 4. create a .env file in the frontend directory
 
    ```bash
-   REACT_APP_SOCKET_URL=<PUT THE BACKEND LINL HERE>
+   REACT_APP_SOCKET_URL=<PUT THE BACKEND LINK HERE>
    ```
 
 5. Open http://localhost:3000 in your web browser.
