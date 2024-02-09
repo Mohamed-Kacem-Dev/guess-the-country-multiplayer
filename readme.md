@@ -52,7 +52,7 @@ Data from https://restcountries.com/
 
    # Start backend server
    cd ../backend
-   npm start
+   node index.js
    ```
 
 4. create a .env file in the frontend directory
