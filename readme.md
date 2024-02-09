@@ -1,6 +1,6 @@
 # Guess The Country Multiplayer
 
-Guess The Country is a web-based game where players try to guess the names of countries based on hitns provided. The game utilizes socket.io for real-time communication between players.
+Guess The Country is a web-based game where players try to guess the names of countries based on hints provided. The game utilizes socket.io for real-time communication between players.
 
 # Deployment
 
