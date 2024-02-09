@@ -19,7 +19,7 @@ Data from https://restcountries.com/
 
 ## Technologies Used
 
-- React.js for the frontend
+- React for the frontend
 - Node.js and Express.js for the backend
 - Socket.io for real-time communication
 - Mongodb for the database
