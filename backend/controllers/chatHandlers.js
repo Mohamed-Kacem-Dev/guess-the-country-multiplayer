@@ -17,7 +17,7 @@ function handleGlobalChat(io, socket, msg) {
 
 async function handleGetLatestMessages(socket) {
   try {
-    const messages = await ChatMessage.find().sort({ time: -1 }).limit(30);
+    const messages = await ChatMessage.find().sort({ time: -1 }).limit(100);
     socket.emit("latestMessages", messages.reverse());
   } catch (error) {
     console.error("Error fetching chat messages from MongoDB:", error);
